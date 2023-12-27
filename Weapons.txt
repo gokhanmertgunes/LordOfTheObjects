@@ -1,0 +1,7 @@
+Bow 60
+Sword 75
+Pyke 65
+Polearm 90
+Axe 45
+Hammer 110
+

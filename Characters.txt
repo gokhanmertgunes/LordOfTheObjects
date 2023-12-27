@@ -1,0 +1,9 @@
+Dragon Smaug 1200 Impenet 1500 225 Withered_Heath Fire Gold
+Dragon Glaurung 960 Angband 1250 250 Nargothrond Fire Black
+Dragon Ancalagon 720 Valinor 1750 150 Morgoth Ice White
+Hero Dunedain 48 Gondor 950 700 Men
+Hero Legolas 32 Sindar 800 700 Elves
+Hero Gandalf 999 Istari 700 1000 Wizard
+Skeleton Skelly 999 Impenet 300 100 Sphenoid Dark
+Skeleton Ringwraiths 999 Valinor 250 120 Calcaneus Desert
+Skeleton Barrow 999 Sindar 350 90 Osteon Ice
